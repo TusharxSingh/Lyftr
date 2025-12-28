@@ -1,0 +1,8 @@
+{
+  "static_scraping": true,
+  "js_rendering": true,
+  "interactions": true,
+  "section_parsing": true,
+  "noise_filtering": true
+}
+
