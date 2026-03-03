@@ -45,7 +45,7 @@ def test_scrape():
 
 if __name__ == "__main__":
     print("=" * 50)
-    print("Testing AI Web Scraper API")
+    print("Testing Lyftr AI Web Scraper API")
     print("=" * 50)
     
     health_ok = test_health()

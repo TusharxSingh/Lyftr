@@ -1,4 +1,4 @@
-# AI Web Scraper
+# Lyftr AI - Web Scraper
 
 A full-stack web scraping application that extracts structured content from websites using both static HTML parsing and JavaScript rendering.
 

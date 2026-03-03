@@ -24,7 +24,7 @@ from jinja2 import Environment, FileSystemLoader
 
 from app.api import health, scrape
 
-app = FastAPI(title="Lyftr AI Web Scraper", version="1.0.0")
+app = FastAPI(title="AI Web Scraper", version="1.0.0")
 
 # Add CORS middleware
 app.add_middleware(

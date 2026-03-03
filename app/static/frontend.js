@@ -1,4 +1,4 @@
-// Frontend JavaScript for Lyftr AI Web Scraper
+// Frontend JavaScript for AI Web Scraper
 
 document.addEventListener('DOMContentLoaded', () => {
     const urlInput = document.getElementById('urlInput');
